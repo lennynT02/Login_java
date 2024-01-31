@@ -1,0 +1,145 @@
+[
+  {
+    "ciudad": "La Mana",
+    "apellido": "Masapanta",
+    "correo": "lennyn@epn.edu.ec",
+    "biografia": "Un chico muy alegre, le gusta jugar deporte en especial el voly",
+    "nombre": "Lennyn",
+    "edad": 20,
+    "contraseña": "1234"
+  },
+  {
+    "ciudad": "Quito",
+    "apellido": "Vásquez",
+    "correo": "taty@epn.edu.ec",
+    "biografia": "Una chica linda y super divertida, siempre busca la manera de ayudar a los demás.",
+    "nombre": "Taty",
+    "edad": 20,
+    "contraseña": "1212"
+  },
+  {
+    "ciudad": "Guayaquil",
+    "apellido": "Gómez",
+    "correo": "juan@epn.edu.ec",
+    "biografia": "Apasionado por la tecnología y siempre en busca de nuevos desafíos.",
+    "nombre": "Juan",
+    "edad": 25,
+    "contraseña": "abc123"
+  },
+  {
+    "ciudad": "Cuenca",
+    "apellido": "Pérez",
+    "correo": "laura@epn.edu.ec",
+    "biografia": "Amante de la música y la naturaleza, siempre sonriendo.",
+    "nombre": "Laura",
+    "edad": 22,
+    "contraseña": "qwerty"
+  },
+  {
+    "ciudad": "Ambato",
+    "apellido": "Rodríguez",
+    "correo": "carlos@epn.edu.ec",
+    "biografia": "Emprendedor y soñador, comprometido con el cambio social.",
+    "nombre": "Carlos",
+    "edad": 28,
+    "contraseña": "4567"
+  },
+  {
+    "ciudad": "Machala",
+    "apellido": "López",
+    "correo": "ana@epn.edu.ec",
+    "biografia": "Explorador de nuevas culturas y amante de la gastronomía.",
+    "nombre": "Ana",
+    "edad": 24,
+    "contraseña": "p@ssw0rd"
+  },{
+    "ciudad": "Loja",
+    "apellido": "Mora",
+    "correo": "diego@epn.edu.ec",
+    "biografia": "Amante de los deportes y la aventura, siempre en busca de nuevas experiencias.",
+    "nombre": "Diego",
+    "edad": 23,
+    "contraseña": "mypass123"
+  },
+  {
+    "ciudad": "Riobamba",
+    "apellido": "Chávez",
+    "correo": "isabel@epn.edu.ec",
+    "biografia": "Artista creativo y apasionado por la pintura y el diseño.",
+    "nombre": "Isabel",
+    "edad": 26,
+    "contraseña": "art123"
+  },
+  {
+    "ciudad": "Ibarra",
+    "apellido": "Ramírez",
+    "correo": "eduardo@epn.edu.ec",
+    "biografia": "Ingeniero apasionado por la tecnología, siempre aprendiendo algo nuevo.",
+    "nombre": "Eduardo",
+    "edad": 27,
+    "contraseña": "techgeek"
+  },
+  {
+    "ciudad": "Esmeraldas",
+    "apellido": "García",
+    "correo": "diana@epn.edu.ec",
+    "biografia": "Amante de los animales y defensor de los derechos de los seres vivos.",
+    "nombre": "Diana",
+    "edad": 21,
+    "contraseña": "animallover"
+  },
+  {
+    "ciudad": "Portoviejo",
+    "apellido": "Moreno",
+    "correo": "alejandro@epn.edu.ec",
+    "biografia": "Viajero entusiasta y aficionado a la fotografía, capturando momentos únicos.",
+    "nombre": "Alejandro",
+    "edad": 29,
+    "contraseña": "traveler123"
+  },
+  {
+    "ciudad": "Quevedo",
+    "apellido": "Torres",
+    "correo": "gabriela@epn.edu.ec",
+    "biografia": "Investigador curioso y apasionado por la ciencia, siempre buscando respuestas.",
+    "nombre": "Gabriela",
+    "edad": 24,
+    "contraseña": "sciencerocks"
+  },
+  {
+    "ciudad": "Santa Elena",
+    "apellido": "Sánchez",
+    "correo": "javier@epn.edu.ec",
+    "biografia": "Entusiasta del deporte acuático y amante de la playa.",
+    "nombre": "Javier",
+    "edad": 22,
+    "contraseña": "surfingfun"
+  },
+  {
+    "ciudad": "Manta",
+    "apellido": "Herrera",
+    "correo": "camila@epn.edu.ec",
+    "biografia": "Escritor creativo y soñador, narrando historias fascinantes.",
+    "nombre": "Camila",
+    "edad": 25,
+    "contraseña": "dreamwriter"
+  },
+  {
+    "ciudad": "Tena",
+    "apellido": "Guerrero",
+    "correo": "mateo@epn.edu.ec",
+    "biografia": "Defensor de la naturaleza y activista por la conservación del medio ambiente.",
+    "nombre": "Mateo",
+    "edad": 26,
+    "contraseña": "greenwarrior"
+  },
+  {
+    "ciudad": "Santo Domingo",
+    "apellido": "Alvarado",
+    "correo": "sofia@epn.edu.ec",
+    "biografia": "Apasionado por la música y talentoso músico autodidacta.",
+    "nombre": "Sofía",
+    "edad": 23,
+    "contraseña": "musiclover"
+  }
+]
